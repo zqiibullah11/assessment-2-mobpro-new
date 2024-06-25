@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TukarIn</string>
+    <string name="list_kosong">Belum ada riwayat penukaran uang</string>
+    <string name="empty_state_image">Gambar belum ada riwayat konversi uang</string>
+    <string name="tambah_catatan">Tambah Catatan</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_riwayat_konversi">Ubah Riwayat Konversi</string>
+    <string name="judul">Judul Catatan</string>
+    <string name="jumlah">Jumlah Uang</string>
+    <string name="currency">Mata Uang</string>
+    <string name="catatan">Catatan Penukaran Uang</string>
+    <string name="transportasi">Moda Transportasi</string>
+    <string name="currency1">Rupiah</string>
+    <string name="currency2">USD</string>
+    <string name="invalid">Harap masukkan semua data</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus riwayat konversi</string>
+    <string name="pesan_hapus">Hapus data ini?</string>
+    <string name="list">Tampilan List</string>
+    <string name="grid">Tampilan Grid</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+</resources>

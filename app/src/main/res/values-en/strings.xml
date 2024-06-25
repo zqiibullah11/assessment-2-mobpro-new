@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TukarIn</string>
+    <string name="konversi_uang_button">Convert Money Button</string>
+    <string name="konversi_rupiah_title">Rupiah conversion</string>
+    <string name="icon_catatan">Note icon</string>
+    <string name="konversi_title">Conversion</string>
+    <string name="catatan_keuangan_title">Financial records</string>
+    <string name="tentang_aplikasi_title">About</string>
+    <string name="about">This application is an application about currency conversion from Rupiah to Dollars and or vice versa. You can also save your financial records in the Financial Notes menu.</string>
+    <string name="app_info_icon">App Info Icon</string>
+    <string name="hitung_button_title">Calculate</string>
+    <string name="bagikan_template">Amount: %1$s Convert to: %2$s Result: %3$s</string>
+    <string name="reset_button">Reset</string>
+    <string name="tombol_kembali">Back Button</string>
+    <string name="bagikan_button">Share</string>
+</resources>
